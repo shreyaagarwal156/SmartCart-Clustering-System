@@ -52,9 +52,6 @@ Bash
 pip install pandas numpy scikit-learn matplotlib seaborn kneed
 Execute the Pipeline: Open smartcart.ipynb in your preferred IDE (Jupyter, VS Code) and run the cells sequentially to observe the data processing and clustering outputs.
 
-💡 Key Insights & Results
-(Note: Update these bullet points with the final observations from your notebook once you finish the analysis!)
-
 Successfully reduced high-dimensional customer data using PCA while retaining variance.
 
 Automatically determined the optimal number of customer clusters using the Elbow method.
